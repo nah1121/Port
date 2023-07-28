@@ -123,8 +123,8 @@ body{
 
 .grad{
     background:var(--background);
-    background-clip: text;
     -webkit-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent; 
 }
 
