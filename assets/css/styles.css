@@ -485,6 +485,10 @@ body{
     margin-bottom: 40px;
 }
 
+.p-d{
+    font-size: 30px;
+}
+
 .serv{
     display: flex;
     flex-direction: column;
